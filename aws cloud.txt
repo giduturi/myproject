@@ -1,0 +1,25 @@
+ 
+• Working on AWS cloud console EC2. 
+• Managing 100+ servers 2008 R2 Datacenter Edition. 
+• Windows update installation on server 2008 R2. 
+• Instance creation on AWS cloud as per project requirement. 
+• Commissioning and decommissioning of instance as per procedure. 
+• Cloud Watch Alarm creation and configuration. 
+• SNS (Simple Notification Service) Configuration. 
+• Administrative password retrieved through Ec2ConfigService. 
+• Taking Instance Image backup Amazon Machine Image (AMI) as procedure on AWS. 
+• AMI sharing from one account to another account public/private. 
+• S3 bucket creation and set policy to backup archive data on Glacier. 
+• Volumes creation and attached to servers. 
+• Volumes de-attached in case of server failure. 
+• Volume snapshot backup creation and backup retrieved from snapshot. 
+• Handling instance lifecycle terminate and reboot 
+• Assigning elastic IP to server. 
+• Registry cleanup and backup on daily basis on server 2008 R2. 
+• Responsible for handling issues within SLA. 
+• Managing server health checklist on daily basis. 
+• Trouble shooting all kind of Applications / software related Issues. 
+• Managed the Remote servers using RDM, RDP and OCS Tool. 
+• Resolved issues with client's infrastructure via ticket tracking systems. 
+• Managing & Marinating daily, weekly & monthly call reports. 
+• Working in 24*7 production support environment to handle US and Germany customers for managing and provide technical L2/L3 Support for all Wintel related Services raised on day-to-day basis.
